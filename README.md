@@ -26,4 +26,4 @@ Unlike standard text-to-image converters that use static fonts, this program use
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/procedural-handwriting-generator.git](https://github.com/YOUR-USERNAME/procedural-handwriting-generator.git)
+   git clone [https://github.com/YOUR-USERNAME/text-to-handwritten.git](https://github.com/YOUR-USERNAME/text-to-handwritten.git)
