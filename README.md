@@ -4,6 +4,8 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
+> **Status:** 🚧 Actively under development. Features and documentation are being updated frequently.
+
 Welcome! This tool dynamically generates a unique font profile to convert your digital text into natural, human-like handwriting. Unlike standard static fonts, this generator introduces procedural variations and realistic human errors to create authentic-looking handwritten documents.
 
 ---
